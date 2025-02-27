@@ -1,6 +1,6 @@
 # VacantionPlanner
 # Description
-This Repository will contain informations and implementation about the vacantion entity, that reers to the time off from work or school. It includes attributes as start and end date, destination, type of vacantion, etc.
+This Repository will contain description and implementation about the vacantion entity, that reers to the time off from work or school. It includes attributes as start and end date, destination, type of vacantion, etc.
 
 # Features
 The Vacantion can have the following attributes:
